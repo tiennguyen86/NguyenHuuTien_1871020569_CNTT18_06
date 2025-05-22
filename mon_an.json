@@ -6,5 +6,21 @@
         "mo_ta": "Cơm ngon",
         "calo": 10,
         "loai_mon_an": "Món chính"
+    },
+    {
+        "ma_mon_an": 1003,
+        "ten_mon_an": "Bánh Mỳ",
+        "gia": 10000.0,
+        "mo_ta": "Bánh Mỳ ba tê",
+        "calo": 20,
+        "loai_mon_an": "Khai vị"
+    },
+    {
+        "ma_mon_an": 1002,
+        "ten_mon_an": "Cháo",
+        "gia": 20000.0,
+        "mo_ta": "Cháo lòng",
+        "calo": 10,
+        "loai_mon_an": "Khai vị"
     }
 ]

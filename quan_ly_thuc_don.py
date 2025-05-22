@@ -74,7 +74,7 @@ def them_mon_an():
     danh_sach_mon_an.append(mon_an_moi)
     luu_du_lieu_mon_an()
     
-    print("\nĐã thêm món ăn thành công!")
+    print("\nĐã thêm món ăn thành công!")       
     input("Nhấn Enter để tiếp tục...")
 
 # 2. Hiển thị danh sách món ăn
